@@ -1,1 +1,2 @@
-# POTATO-LEAF-DISEASE-CLASSIFICATION
+This is the Potato Leaf Disease Classification project where the user can insert the potato leaf image to predict the type of disease the leaf is affected with.Here, the leaf images are segregated into three classes mainly Early blight, Late blight and Healthy leaf.This will help the users in agriculture sector to detect the disease at an early stage and take preventive measures to cure that particular disease.
+Technology behind this project:PYTHON,CNN,REACTJS,FASTAPI and GCP
